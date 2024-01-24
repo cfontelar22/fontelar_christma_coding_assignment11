@@ -85,6 +85,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Open your terminal and navigate to the project directory. Run the following command to create the Dockerfile.
 
 cd /path/to/fontelar_christma_coding_assignment11
+
 touch DockerFile
 
 
