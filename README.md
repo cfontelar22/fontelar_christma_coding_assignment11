@@ -82,10 +82,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 **MAKING THE DOCKER FILE**
 
-Open your terminal and navigate to the project directory. Run the following command to check the status.
+Open your terminal and navigate to the project directory. Run the following command to create the Dockerfile.
 
 cd /path/to/fontelar_christma_coding_assignment11
-git status
+touch DockerFile
 
 
 1. **Clone the Repository:**
