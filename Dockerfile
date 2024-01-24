@@ -21,5 +21,8 @@ RUN npm run build
 # Expose the port the app runs on
 EXPOSE 7775
 
+# Set the PORT environment variable
+ENV PORT=7775
+
 # Start the application
 CMD ["npm", "start"]
