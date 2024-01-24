@@ -80,6 +80,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## DOCKERIZATION OF REACT APP
 
+**MAKING THE DOCKER FILE**
+
+Open your terminal and navigate to the project directory. Run the following command to check the status.
+
+cd /path/to/fontelar_christma_coding_assignment11
+git status
+
+
 1. **Clone the Repository:**
    git clone https://github.com/cfontelar22/fontelar_christma_coding_assignment11
 
